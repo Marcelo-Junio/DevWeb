@@ -17,7 +17,7 @@ img.addEventListener("mouseenter", () => {
     img.src = "https://static.itdg.com.br/images/360-240/ec2a5e38702c60bf1ace0b5f1c8e9415/shutterstock-739787011.jpg";
 });
 img.addEventListener("mouseleave", () => {
-    img.src = "imagem/lasanha.jpeg";
+    img.src = "lasanha.jpeg";
 });
 
 //Mudar o fundo ao clicar no botãoEEEE
